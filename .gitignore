@@ -1,0 +1,34 @@
+# Binaries and executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archives
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Downloaded tools
+gh_*
+gh.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
